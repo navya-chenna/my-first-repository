@@ -1,3 +1,3 @@
 # my-first-repository
 <br>
-author name "navya"
+author name "navya linty" 
